@@ -1,0 +1,15 @@
+body {
+    text-align: ;
+}
+
+header, div {
+    width: 400px;
+    margin: 0 auto;
+}
+header h1 {
+    padding-top: 20px;
+}
+header h3 {
+    font-style: italic;
+    font-size: 16px;
+}
