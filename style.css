@@ -12,4 +12,5 @@ header h1 {
 header h3 {
     font-style: italic;
     font-size: 16px;
+    color: gray;
 }
