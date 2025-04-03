@@ -1,0 +1,15 @@
+* [33m3fd3702[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevKasia[m[33m)[m Add calss to body
+* [33m7910e8c[m Add new class
+[31m|[m * [33m7665270[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m Change title
+[31m|[m * [33mc8e67a5[m Add new paragraph
+[31m|[m[31m/[m  
+[31m|[m * [33m8356bd3[m[33m ([m[1;32mdevTadek[m[33m)[m Change paragraph
+[31m|[m[31m/[m  
+* [33mc95250f[m remove node_modules and add .gitignore
+* [33m6815949[m Add basic packages
+* [33mf5d38f1[m Update header font size
+* [33m477f94b[m Update header color
+* [33md19be66[m[33m ([m[1;33mtag: [m[1;33mv1[m[33m)[m Add style for page
+* [33ma638661[m Add html for page
+* [33ma28c197[m Add basic html code
+* [33mbfbdea7[m Init project
